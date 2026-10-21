@@ -35,8 +35,6 @@ Windows 11 endpoint (Xamuel)
 
 **Windows Security Event IDs investigated:** `4624` (successful logon) and `4625` (failed logon).
 
-> **Privacy note:** IP addresses in this document are private LAN addresses from the lab. No passwords, authentication tokens, or other secrets are included. If reproducing the setup, substitute your own device names and IP addresses.
-
 ## 1. SOC Server Preparation
 
 I used an Ubuntu system as the central Splunk Enterprise server. Before configuring log collection, I verified the hostname, network configuration, Splunk version, and service status. Splunk Enterprise was already installed before I began documenting the lab.
