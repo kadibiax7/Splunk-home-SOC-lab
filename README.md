@@ -1,5 +1,7 @@
 # Home SOC Lab Using Splunk
 
+> **Work in progress:** This Home SOC Lab is being developed and documented in stages. Step 8.2 (successful Windows logon monitoring) is pending; additional results and screenshots will be added as work continues.
+
 A hands-on Security Operations Center (SOC) home lab** built with an Ubuntu Splunk Enterprise server and a Windows 11 endpoint. This project demonstrates Windows Security Event Log collection, log forwarding, Splunk Processing Language (SPL) investigations, and dashboard-based monitoring.
 
 
